@@ -1,0 +1,10 @@
+/*BUTTON*/
+.btn:hover{
+    transform: scale(1.15);
+}
+/*logo*/
+#puh
+{
+    height: 2cm;
+    width: 2cm;
+}
